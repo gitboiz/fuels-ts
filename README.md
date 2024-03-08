@@ -35,7 +35,7 @@ npm install fuels --save
 
 # Import
 
-Simple example usages.
+Simple example usages
 
 ```ts
 import { Wallet } from "fuels";
